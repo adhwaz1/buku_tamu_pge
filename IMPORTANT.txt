@@ -1,0 +1,11 @@
+Data yang diperlukan :
+1. Tanggal //date
+2. Jam Masuk //otomatis
+2. Jam Keluar //otomatis
+4. Nama //string
+5. Nama Instansi //string
+6. No. HP //integer
+7. Yang dikunjungi //string
+8. Keperluan //string
+9. Paraf //img
+10. No Visitor //integer  
